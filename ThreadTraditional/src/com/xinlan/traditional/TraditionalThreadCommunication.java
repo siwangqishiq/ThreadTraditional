@@ -1,6 +1,6 @@
 package com.xinlan.traditional;
 
-public class TraditionalThreadCommuncation {
+public class TraditionalThreadCommunication {
 
 	/**
 	 * 线程间的同步通信
